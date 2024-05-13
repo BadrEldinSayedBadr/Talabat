@@ -1,0 +1,36 @@
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Badr\programming\NewProject\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\NewProject\Project\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

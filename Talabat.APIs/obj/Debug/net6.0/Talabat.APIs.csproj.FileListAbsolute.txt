@@ -1,0 +1,259 @@
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CopyComplete
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\NewProject\Project\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+D:\Badr\programming\NewProject\Project\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll

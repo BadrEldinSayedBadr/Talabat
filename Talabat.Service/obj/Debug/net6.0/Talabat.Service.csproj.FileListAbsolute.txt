@@ -1,0 +1,45 @@
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Ahmed Nasser\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\Badr\programming\Route\videos\Asp.net\Web API\Project\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\Badr\programming\NewProject\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Badr\programming\NewProject\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\NewProject\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\NewProject\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Badr\programming\NewProject\Project\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Badr\programming\NewProject\Project\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
